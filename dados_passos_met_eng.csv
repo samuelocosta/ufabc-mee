@@ -1,0 +1,67 @@
+pessoa,contagem_manual,contagem_digital,distancia_digital,dispositivo_contagem,aplicativo_contagem,distancia_real
+samuel,164,159,130.0,samsung galaxy fit 3,nativo samsung,130.8
+samuel,155,154,130.0,samsung galaxy fit 3,nativo samsung,130.8
+samuel,156,145,130.0,samsung galaxy fit 3,nativo samsung,130.8
+samuel,162,151,130.0,samsung galaxy fit 3,nativo samsung,130.8
+samuel,79,68,60.0,samsung galaxy fit 3,nativo samsung,63.0
+samuel,75,67,60.0,samsung galaxy fit 3,nativo samsung,63.0
+samuel,79,69,60.0,samsung galaxy fit 3,nativo samsung,63.0
+samuel,79,67,60.0,samsung galaxy fit 3,nativo samsung,63.0
+samuel,107,91,70.0,samsung galaxy fit 3,nativo samsung,84.0
+samuel,102,87,70.0,samsung galaxy fit 3,nativo samsung,84.0
+samuel,104,97,80.0,samsung galaxy fit 3,nativo samsung,84.0
+samuel,102,94,70.0,samsung galaxy fit 3,nativo samsung,84.0
+gabriella,182,180,109.8,iphone 14 pro max,stepapp,130.8
+gabriella,177,172,122.0,iphone 14 pro max,stepapp,130.8
+gabriella,179,177,129.0,iphone 14 pro max,stepapp,130.8
+gabriella,184,181,120.0,iphone 14 pro max,stepapp,130.8
+gabriella,177,162,116.0,iphone 14 pro max,stepapp,130.8
+gabriella,180,178,125.0,iphone 14 pro max,stepapp,130.8
+gabriella,84,70,57.0,iphone 14 pro max,stepapp,63.0
+gabriella,88,76,46.0,iphone 14 pro max,stepapp,63.0
+gabriella,80,88,85.0,iphone 14 pro max,stepapp,63.0
+gabriella,87,82,55.0,iphone 14 pro max,stepapp,63.0
+gabriella,114,98,76.0,iphone 14 pro max,stepapp,84.0
+gabriella,116,115,64.0,iphone 14 pro max,stepapp,84.0
+gabriella,115,112,68.0,iphone 14 pro max,stepapp,84.0
+gabriella,116,110,77.0,iphone 14 pro max,stepapp,84.0
+rebeca,101,100,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,104,108,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,100,99,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,97,95,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,99,97,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,99,92,, xiaomi smart band 9 active,nativo xiaomi,63.0
+rebeca,101,6,,samsung galaxy a52,samsung health,63.0
+rebeca,104,92,,samsung galaxy a52,samsung health,63.0
+rebeca,100,277,,samsung galaxy a52,samsung health,63.0
+rebeca,97,14,,samsung galaxy a52,samsung health,63.0
+rebeca,99,105,,samsung galaxy a52,samsung health,63.0
+rebeca,99,96,,samsung galaxy a52,samsung health,63.0
+rebeca,126,128,, xiaomi smart band 9 active,nativo xiaomi,84.0
+rebeca,130,125,, xiaomi smart band 9 active,nativo xiaomi,84.0
+rebeca,125,123,, xiaomi smart band 9 active,nativo xiaomi,84.0
+rebeca,129,131,, xiaomi smart band 9 active,nativo xiaomi,84.0
+rebeca,126,224,,samsung galaxy a52,samsung health,84.0
+rebeca,130,127,,samsung galaxy a52,samsung health,84.0
+rebeca,125,123,,samsung galaxy a52,samsung health,84.0
+rebeca,129,124,,samsung galaxy a52,samsung health,84.0
+rebeca,200,205,, xiaomi smart band 9 active,nativo xiaomi,130.8
+rebeca,206,209,, xiaomi smart band 9 active,nativo xiaomi,130.8
+rebeca,199,200,, xiaomi smart band 9 active,nativo xiaomi,130.8
+rebeca,200,197,, xiaomi smart band 9 active,nativo xiaomi,130.8
+rebeca,200,207,,samsung galaxy a52,samsung health,130.8
+rebeca,206,207,,samsung galaxy a52,samsung health,130.8
+rebeca,199,145,,samsung galaxy a52,samsung health,130.8
+rebeca,200,218,,samsung galaxy a52,samsung health,130.8
+joao,84,83,50.9,iphone 16,stepapp,63.0
+joao,87,88,53.9,iphone 16,stepapp,63.0
+joao,84,82,51.1,iphone 16,stepapp,63.0
+joao,85,85,56.5,iphone 16,stepapp,63.0
+joao,122,123,63.9,iphone 16,stepapp,84.0
+joao,124,122,64.0,iphone 16,stepapp,84.0
+joao,116,116,67.7,iphone 16,stepapp,84.0
+joao,115,118,80.8,iphone 16,stepapp,84.0
+joao,175,176,123.0,iphone 16,stepapp,130.8
+joao,173,172,119.0,iphone 16,stepapp,130.8
+joao,162,166,121.6,iphone 16,stepapp,130.8
+joao,164,166,119.9,iphone 16,stepapp,130.8
